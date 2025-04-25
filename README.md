@@ -1,4 +1,4 @@
-# Employee loan Flask Deployment
+# Employee loan Prediction
 
 Objective: Predict employees' loan eligibility based on profile data such as income, credit score, and employment history.
 
